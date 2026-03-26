@@ -1,0 +1,5 @@
+[0.011s] Invoking command in '/home/eiche/YXros/chapter7/chap7_ws/build/fishbot_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --build /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_navigation2 -- -j12 -l12
+[0.023s] CMake Error: The source directory "/home/eiche/YXros/chapter7/chap7_ws/fishbot_navigation2" does not appear to contain CMakeLists.txt.
+[0.023s] Specify --help for usage, or press the help button on the CMake GUI.
+[0.024s] make: *** [Makefile:222: cmake_check_build_system] Error 1
+[0.025s] Invoked command in '/home/eiche/YXros/chapter7/chap7_ws/build/fishbot_navigation2' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --build /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_navigation2 -- -j12 -l12

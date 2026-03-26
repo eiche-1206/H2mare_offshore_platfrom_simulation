@@ -1,0 +1,5 @@
+[0.012s] Invoking command in '/home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --build /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description -- -j12 -l12
+[0.024s] CMake Error: The source directory "/home/eiche/YXros/chapter7/chap7_ws/fishbot_description" does not exist.
+[0.024s] Specify --help for usage, or press the help button on the CMake GUI.
+[0.024s] make: *** [Makefile:222: cmake_check_build_system] Error 1
+[0.026s] Invoked command in '/home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/galactic /usr/bin/cmake --build /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description -- -j12 -l12

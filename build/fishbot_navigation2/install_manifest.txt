@@ -1,7 +1,9 @@
 /home/eiche/YXros/chapter7/chap7_ws/install/fishbot_navigation2/share/fishbot_navigation2/launch/navigation2.launch.py
 /home/eiche/YXros/chapter7/chap7_ws/install/fishbot_navigation2/share/fishbot_navigation2/config/nav2_params.yaml
 /home/eiche/YXros/chapter7/chap7_ws/install/fishbot_navigation2/share/fishbot_navigation2/maps/room.pgm
+/home/eiche/YXros/chapter7/chap7_ws/install/fishbot_navigation2/share/fishbot_navigation2/maps/h2mare_offshore.pgm
 /home/eiche/YXros/chapter7/chap7_ws/install/fishbot_navigation2/share/fishbot_navigation2/maps/room.yaml
+/home/eiche/YXros/chapter7/chap7_ws/install/fishbot_navigation2/share/fishbot_navigation2/maps/h2mare_offshore.yaml
 /home/eiche/YXros/chapter7/chap7_ws/install/fishbot_navigation2/share/ament_index/resource_index/package_run_dependencies/fishbot_navigation2
 /home/eiche/YXros/chapter7/chap7_ws/install/fishbot_navigation2/share/ament_index/resource_index/parent_prefix_path/fishbot_navigation2
 /home/eiche/YXros/chapter7/chap7_ws/install/fishbot_navigation2/share/fishbot_navigation2/environment/ament_prefix_path.sh
