@@ -11,7 +11,7 @@
             <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 0.0"/>
             <!-- 几何形状 -->
             <geometry>
-                <cylinder radius="0.01" length="0.10"/>
+                <cylinder radius="0.01" length="0.20"/>
             </geometry>
             <!-- 材质颜色 -->
             <material name="black">
@@ -73,7 +73,7 @@
 
      <!-- 机器人关节 -->
     <joint name="lidar_joint" type="fixed">
-        <origin xyz="0.0 0.0 0.05" rpy="0.0 0.0 0.0"/>
+        <origin xyz="0.0 0.0 0.1" rpy="0.0 0.0 0.0"/>
         <parent link="lidar_cylinder_link"/>
         <child link="lidar_link"/>
     </joint>

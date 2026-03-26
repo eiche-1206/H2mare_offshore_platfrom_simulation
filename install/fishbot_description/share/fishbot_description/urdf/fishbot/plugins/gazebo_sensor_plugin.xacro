@@ -19,7 +19,6 @@
                     <ray>
                         <!-- 设置扫描范围 -->
                         <scan>
-                            <sphere radius="8.0"/>
                             <horizontal>
                                 <samples>360</samples>
                                 <resolution>1.000000</resolution>
