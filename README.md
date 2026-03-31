@@ -80,6 +80,7 @@ ros2 launch autopatrol_robot autopatrol.launch.py
 
 ## 3. Acknowledgements
 This project was built with reference to the teaching videos of the Bilibili creator YXros, special thanks for his contributions.
+Video link: https://www.bilibili.com/video/BV1k5dNYPEdo/?spm_id_from=333.337.search-card.all.click&vd_source=5d7f73275cae0c60565c038e37fd8dd6
 
 ## 4. Author
 - [Eiche](https://gitee.com/eiche1206)
