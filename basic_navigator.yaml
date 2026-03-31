@@ -1,0 +1,14 @@
+/basic_navigator:
+  ros__parameters:
+    initial_point:
+    - 0.0
+    - 0.0
+    - 0.0
+    target_points:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 1.0
+    - 1.0
+    - 1.57
+    use_sim_time: false

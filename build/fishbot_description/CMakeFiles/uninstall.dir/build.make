@@ -43,7 +43,7 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/eiche/YXros/chapter7/chap7_ws/fishbot_description
+CMAKE_SOURCE_DIR = /home/eiche/YXros/chapter7/chap7_ws/src/fishbot_description
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description
@@ -67,6 +67,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/eiche/YXros/chapter7/chap7_ws/fishbot_description /home/eiche/YXros/chapter7/chap7_ws/fishbot_description /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/eiche/YXros/chapter7/chap7_ws/src/fishbot_description /home/eiche/YXros/chapter7/chap7_ws/src/fishbot_description /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/eiche/YXros/chapter7/chap7_ws/fishbot_description
+# Install script for directory: /home/eiche/YXros/chapter7/chap7_ws/src/fishbot_description
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,10 +39,10 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/fishbot_description" TYPE DIRECTORY FILES
-    "/home/eiche/YXros/chapter7/chap7_ws/fishbot_description/launch"
-    "/home/eiche/YXros/chapter7/chap7_ws/fishbot_description/urdf"
-    "/home/eiche/YXros/chapter7/chap7_ws/fishbot_description/config"
-    "/home/eiche/YXros/chapter7/chap7_ws/fishbot_description/world"
+    "/home/eiche/YXros/chapter7/chap7_ws/src/fishbot_description/launch"
+    "/home/eiche/YXros/chapter7/chap7_ws/src/fishbot_description/urdf"
+    "/home/eiche/YXros/chapter7/chap7_ws/src/fishbot_description/config"
+    "/home/eiche/YXros/chapter7/chap7_ws/src/fishbot_description/world"
     )
 endif()
 
@@ -102,7 +102,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/fishbot_description" TYPE FILE FILES "/home/eiche/YXros/chapter7/chap7_ws/fishbot_description/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/fishbot_description" TYPE FILE FILES "/home/eiche/YXros/chapter7/chap7_ws/src/fishbot_description/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

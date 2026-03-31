@@ -1,4 +1,0 @@
-Invoking command in '/home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description': CMAKE_PREFIX_PATH=/opt/ros/galactic:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description -- -j12 -l12
-Invoked command in '/home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description -- -j12 -l12
-Invoking command in '/home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description': CMAKE_PREFIX_PATH=/opt/ros/galactic:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description
-Invoked command in '/home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/galactic:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/eiche/YXros/chapter7/chap7_ws/build/fishbot_description

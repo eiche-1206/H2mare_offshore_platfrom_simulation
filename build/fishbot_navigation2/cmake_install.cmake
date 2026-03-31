@@ -1,4 +1,4 @@
-# Install script for directory: /home/eiche/YXros/chapter7/chap7_ws/fishbot_navigation2
+# Install script for directory: /home/eiche/YXros/chapter7/chap7_ws/src/fishbot_navigation2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,9 +39,9 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/fishbot_navigation2" TYPE DIRECTORY FILES
-    "/home/eiche/YXros/chapter7/chap7_ws/fishbot_navigation2/launch"
-    "/home/eiche/YXros/chapter7/chap7_ws/fishbot_navigation2/config"
-    "/home/eiche/YXros/chapter7/chap7_ws/fishbot_navigation2/maps"
+    "/home/eiche/YXros/chapter7/chap7_ws/src/fishbot_navigation2/launch"
+    "/home/eiche/YXros/chapter7/chap7_ws/src/fishbot_navigation2/config"
+    "/home/eiche/YXros/chapter7/chap7_ws/src/fishbot_navigation2/maps"
     )
 endif()
 
@@ -101,7 +101,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/fishbot_navigation2" TYPE FILE FILES "/home/eiche/YXros/chapter7/chap7_ws/fishbot_navigation2/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/fishbot_navigation2" TYPE FILE FILES "/home/eiche/YXros/chapter7/chap7_ws/src/fishbot_navigation2/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
